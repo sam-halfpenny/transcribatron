@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transcribatron", "Transcribatron\Transcribatron.csproj", "{274B0FB3-6449-41A2-BD21-DA5BCEE30E43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{274B0FB3-6449-41A2-BD21-DA5BCEE30E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274B0FB3-6449-41A2-BD21-DA5BCEE30E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274B0FB3-6449-41A2-BD21-DA5BCEE30E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274B0FB3-6449-41A2-BD21-DA5BCEE30E43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18880200-7890-4463-A0B3-F3772CD2AAAC}
+	EndGlobalSection
+EndGlobal
